@@ -65,7 +65,7 @@ For more detailed instructions on working with Keil uVision 5, refer to the Keil
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/moussaart/Adaptive-Spreading-Factor-Selection-ASFS-Algorithm
     ```
 2. Open the project in Keil uVision 5.
 3. Configure the project settings to match your hardware setup (SX1261MB2BAS shield and STM32 Nucleo L476RG).
